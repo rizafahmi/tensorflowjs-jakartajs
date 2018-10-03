@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.1",
+    "babel-polyfill": "^6.26.0"
+  }
+}
